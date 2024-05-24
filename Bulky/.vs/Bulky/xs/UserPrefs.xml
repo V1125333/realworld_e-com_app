@@ -1,25 +1,29 @@
 ﻿<Properties StartupConfiguration="{ED755E3A-394F-495A-81FE-23F8F38960F2}|https">
-  <MonoDevelop.Ide.Workbench ActiveDocument="BulkyWeb/Program.cs">
+  <MonoDevelop.Ide.ItemProperties.BulkyWeb PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="BulkyWeb/appsettings.json">
     <Files>
-      <File FileName="BulkyWeb/BulkyWeb.csproj" Line="1" Column="1" />
-      <File FileName="BulkyWeb/Properties/launchSettings.json" Line="15" Column="49" />
-      <File FileName="BulkyWeb/appsettings.Development.json" Line="10" Column="1" />
-      <File FileName="BulkyWeb/Program.cs" Line="21" Column="24" />
+      <File FileName="BulkyWeb/Program.cs" Line="14" Column="1" IsPinned="True" />
+      <File FileName="BulkyWeb/Properties/launchSettings.json" Line="1" Column="1" IsPinned="True" />
+      <File FileName="BulkyWeb/appsettings.json" Line="10" Column="117" IsPinned="True" />
+      <File FileName="BulkyWeb/Models/Category.cs" Line="14" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Option id="ShowAllFiles" value="True" />
-          <Node name="Bulky" expanded="True" selected="True" />
+          <Node name="Bulky" expanded="True">
+            <Node name="BulkyWeb">
+              <Node name="appsettings.json" expanded="True" selected="True" />
+            </Node>
+          </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.ItemProperties.BulkyWeb PreferredExecutionTarget="/Applications/Google Chrome.app" />
 </Properties>
